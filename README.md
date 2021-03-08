@@ -22,6 +22,7 @@ embedded system programmer and software developer
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333.svg?style=flat&logo=cplusplus)
+![Swift](https://img.shields.io/badge/-Swift-333333.svg?style=flat&logo=swift)
 ![Arduino](https://img.shields.io/badge/-Arduino-fafafa?style=flat&logo=arduino)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -39,5 +40,5 @@ embedded system programmer and software developer
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/tavvfiq) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=tavvfiq.visitor-badge)](https://github.com/tavvfiq) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/tavvfiq)
 
 - 🔭 I’m currently working as a freelance mobile developer
-- 🌱 I’m currently sharpening my skill in Typescript, React, and React Native
+- 🌱 I’m currently sharpening my skill in Swift and SwiftUI
 - 📫 How to reach me: [**Twitter**](https://twitter.com/tavvfiq)
