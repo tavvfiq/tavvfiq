@@ -49,10 +49,11 @@ To infinity and beyond! -Buzz Lightyear
 
 ### ⚙️ Daily drivers
 
-[![VSCode](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual%20studio%20code)](https://reactjs.org)
-[![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=Xcode)](https://reactnative.dev)
-[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://flutter.dev)
-[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab)](https://flutter.dev)
+[![macOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)]()
+[![VSCode](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual%20studio%20code)]()
+[![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=Xcode)]()
+[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com)
+[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com)
 [![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)]()
 [![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify)]()
 
