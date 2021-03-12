@@ -35,9 +35,10 @@ embedded system programmer and software developer
 ![CSS](https://img.shields.io/badge/-CSS-fafafa?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fafafa?style=flat&logo=bootstrap&logoColor=563D7C)
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=tavvfiq&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavvfiq&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/tavvfiq) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=tavvfiq.visitor-badge)](https://github.com/tavvfiq) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/tavvfiq)
+<p align="left">
+  <!-- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tavvfiq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavvfiq&langs_count=8&theme=algolia&layout=compact" alt="tavvfiq :: Top Langs" />
+</p>
 
 - 🔭 I’m currently working as a freelance mobile developer
 - 🌱 I’m currently sharpening my skill in Swift and SwiftUI
