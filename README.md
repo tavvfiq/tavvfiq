@@ -53,8 +53,8 @@ To infinity and beyond! -Buzz Lightyear
 [![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=Xcode)](https://reactnative.dev)
 [![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://flutter.dev)
 [![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab)](https://flutter.dev)
-[![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)]
-[![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify)]
+[![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)]()
+[![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify)]()
 
 -----
 Readme template credits: [stkeky](https://github.com/stkeky)
