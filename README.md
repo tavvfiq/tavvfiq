@@ -26,6 +26,7 @@ To infinity and beyond! -Buzz Lightyear
 [![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)](https://developer.apple.com/swift/)
+[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)]()
 
 ### 🔸 Spoken a bit
 
@@ -52,10 +53,18 @@ To infinity and beyond! -Buzz Lightyear
 [![macOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)]()
 [![VSCode](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual%20studio%20code)]()
 [![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=Xcode)]()
+[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)]()
 [![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com)
 [![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com)
 [![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)]()
 [![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify)]()
 
+### 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/tavvfiq/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavvfiq#version2"/>
+  </a>
+</p>
+
 -----
-Readme template credits: [stkeky](https://github.com/stkeky)
