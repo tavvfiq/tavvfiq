@@ -30,9 +30,9 @@ To infinity and beyond! -Buzz Lightyear
 
 ### 🔸 Spoken a bit
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://www.javascript.com/)
-[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://www.typescriptlang.org/)
-[![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://developer.apple.com/swift/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
+[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://golang.org)
+[![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://dart.dev)
 
 ### ♦️ Need to refresh
 
