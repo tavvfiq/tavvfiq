@@ -59,12 +59,4 @@ To infinity and beyond! -Buzz Lightyear
 [![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)]()
 [![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify)]()
 
-### 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/tavvfiq/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavvfiq#version2"/>
-  </a>
-</p>
-
 -----
