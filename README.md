@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I am tavvfiq 👋
+## Hi there, I am tavvfiq <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![tavvfiq](https://img.shields.io/badge/tavvfiq-03a9f4?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/taufiq-widi/)
