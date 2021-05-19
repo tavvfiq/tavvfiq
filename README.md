@@ -27,11 +27,11 @@ To infinity and beyond! -Buzz Lightyear
 [![TypeScript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift)](https://developer.apple.com/swift/)
 [![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)]()
+[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://golang.org)
 
 ### 🔸 Spoken a bit
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
-[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://golang.org)
 [![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://dart.dev)
 
 ### ♦️ Need to refresh
